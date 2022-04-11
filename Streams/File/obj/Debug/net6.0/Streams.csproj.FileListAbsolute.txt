@@ -1,0 +1,15 @@
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\bin\Debug\net6.0\Streams.exe
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\bin\Debug\net6.0\Streams.deps.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\bin\Debug\net6.0\Streams.runtimeconfig.json
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\bin\Debug\net6.0\Streams.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\bin\Debug\net6.0\Streams.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.AssemblyInfo.cs
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\refint\Streams.dll
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.pdb
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\Streams.genruntimeconfig.cache
+C:\Users\Danny\Desktop\DIO\Repositorio-Dio\Streams\obj\Debug\net6.0\ref\Streams.dll
